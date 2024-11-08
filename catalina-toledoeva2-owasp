@@ -1,1 +1,40 @@
-hola 
+¿Qué es OWASP y cuál es su principal objetivo? 
+OWASP es una comunidad abierta dedicada a permitir que las organizaciones desarrollen, adquieran y
+mantengan aplicaciones en las que se pueda confiar. 
+
+¿Qué es el OWASP Top 10 y por qué es importante para los desarrolladores? 
+El top 10 es un documento que describen los diez riesgos de seguridad más relevantes en aplicaciones web según la organización OWASP. Desde su primera publicación se han generado varias actualizaciones, las cuales son pensando en
+las mejorías y en los tiempos cambiantes para asi desarrolla el punto importante del progamador o para e desarrolladores navegen en los sitios web mas seguros y confiable al momento de traspasar nuestros datos personales.
+
+Describe brevemente dos de las vulnerabilidades del OWASP Top 10 2017. 
+ La opción preferida es utilizar una API segura, que evite el uso de un intérprete por
+completo y proporcione una interfaz parametrizada. Se debe migrar y utilizar unas
+herramientas de Mapeo Relacional de Objetos (ORMs).
+Se debe actualizar los procesadores y bibliotecas XML que utilice la aplicación o el
+sistema subyacente. Utilice validadores de dependencias. Actualice SOAP a la
+versión 1.2 o superior. 
+
+¿Qué es OWASP ASVS y cuáles son sus niveles de verificación? 
+El OWASP ASVS  es un proyecto que se refiere al estándar de verificación de seguridad de aplicaciones de OWASP y proporciona una base para
+probar los controles técnicos de seguridad de las aplicaciones web, además proporciona a los
+desarrolladores y/o programadores una lista de requisitos para un desarrollo seguro donde se divide en niveles de verificación de seguridad de aplicaciones, y define tres niveles de
+verificación de seguridad, incrementando la profundidad con cada nivel.
+Nivel 1: Oportunista.
+Nivel 2: Estándar.
+Nivel 3: Avanzado.
+
+¿Cuál es la diferencia entre los niveles 1 y 3 de OWASP ASVS? 
+Nivel 1: Se enfoca en una seguridad mínima, adecuada para aplicaciones que no manejan datos sensibles y donde los atacantes pueden emplear técnicas sencillas para explotar vulnerabilidades conocidas.
+Nivel 3: Está diseñado para aplicaciones de alto riesgo, que requieren un análisis profundo y un conjunto más amplio de controles de seguridad avanzados para proteger información crítica o funciones esenciales de la organización.
+
+¿Qué es el modelado de amenazas y cuáles son sus beneficios? 
+
+El modelado de amenazas es una técnica de ingeniería utilizada para identificar, analizar y mitigar amenazas, vulnerabilidades y posibles ataques que podrían afectar una aplicación. Forma parte del ciclo de vida de desarrollo de seguridad (SDL) de Microsoft y ayuda a dar forma al diseño de una aplicación, cumplir los objetivos de seguridad de la empresa y reducir el riesgo.
+
+Nombra dos metodologías de modelado de amenazas. 
+NIST: es el modelado de amenazas del Instituto Nacional de Estándares y Tecnología de Estados Unidos, el cual está centrado en datos y tiene como enfoque 4 pasos, que van desde identificar los datos de interés, hasta análisis de los procesos mismos.
+PASTA: En este modelo de amenazas se proporciona un proceso que consta de siete pasos para lograr analizar los riesgos. Tiene como objetivo alinear los objetivos comerciales con los requisitos técnicos, tomando como base el análisis del impacto comercial y los
+requisitos de cumplimiento.
+
+¿Qué es el SDL y cómo ayuda a la seguridad del software? 
+El SDL es un enfoque estructurado para integrar prácticas de seguridad en todas las fases del ciclo de vida del desarrollo de software. Su objetivo es identificar y mitigar vulnerabilidades de seguridad desde las etapas iniciales del desarrollo hasta la implementación y mantenimiento del software.

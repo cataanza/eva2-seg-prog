@@ -1,0 +1,21 @@
+1. ¿Qué significa PCI DSS y cuál es su propósito principal? (3 pts)
+PCI DSS significa Payment Card Industry Data Security Standard (Norma de Seguridad de Datos de la Industria de Tarjetas de Pago). Su propósito principal es establecer un conjunto de reglas y estándares de seguridad para proteger la información sensible de las tarjetas de crédito y débito durante su almacenamiento, procesamiento y transmisión. El objetivo es reducir el riesgo de robo de datos y fraudes relacionados con el uso de tarjetas de pago.
+
+2. ¿A qué tipo de empresas afecta PCI DSS? (2 pts)
+PCI DSS afecta a todas las empresas que procesan, almacenan o transmiten datos de tarjetas de pago. Esto incluye no solo a comerciantes y bancos, sino también a proveedores de servicios de pago, procesadores de tarjetas y cualquier entidad que maneje información de tarjetas de crédito o débito, ya sea en línea o en puntos de venta físicos.
+
+3. Menciona tres ejemplos de datos que PCI DSS busca proteger. (2 pts)
+PCI DSS busca proteger los siguientes datos sensibles de tarjetas de pago
+1.	Número de tarjeta de crédito/débito (PAN, por sus siglas en inglés).
+2.	Código de seguridad (CVV/CVC), el número de tres dígitos en la parte trasera de la tarjeta.
+3.	Fecha de expiración de la tarjeta.
+
+4. ¿Por qué es importante la certificación PCI DSS para las empresas? (1 pt)
+La certificación PCI DSS es importante para las empresas porque garantiza que están siguiendo las mejores prácticas de seguridad para proteger los datos de las tarjetas de pago, lo que ayuda a prevenir fraudes y violaciones de seguridad. Además, muchas marcas de tarjetas y bancos exigen el cumplimiento de PCI DSS como un requisito para operar, lo que también protege la reputación de la empresa y fomenta la confianza de los clientes.
+
+5. Describe brevemente tres de los doce requisitos de PCI DSS. (2 pts)
+Tres de los requisitos principales de PCI DSS son:
+1.	Instalar y mantener una red segura: Esto incluye el uso de firewalls y otras medidas de seguridad para proteger los datos de las tarjetas de pago de accesos no autorizados.
+2.	Proteger los datos del titular de la tarjeta: Implica cifrar los datos sensibles de las tarjetas, tanto en tránsito como en almacenamiento, para que no puedan ser leídos si son interceptados.
+3.	Mantener un programa de gestión de vulnerabilidades: Las empresas deben contar con software antivirus actualizado y sistemas de seguridad que estén protegidos contra vulnerabilidades conocidas, además de realizar pruebas de seguridad regulares.
+

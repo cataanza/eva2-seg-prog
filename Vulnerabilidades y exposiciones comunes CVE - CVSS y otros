@@ -1,0 +1,46 @@
+1. Define vulnerabilidad, amenaza y riesgo en el contexto de la seguridad informática. (2 pts)
+•	Vulnerabilidad: Es una debilidad o fallo en un sistema que puede ser explotada por un atacante para comprometer la seguridad. Por ejemplo, un software desactualizado con una falla de seguridad.
+•	Amenaza: Es cualquier cosa que pueda causar daño o explotación de una vulnerabilidad, como un atacante, un malware o incluso un desastre natural.
+•	Riesgo: Es la probabilidad de que una amenaza explote una vulnerabilidad y cause un daño. Se mide considerando la vulnerabilidad, la amenaza y el impacto potencial del daño.
+
+2. ¿Qué es CVE y cuál es su propósito? (1 pt)
+El CVE (Common Vulnerabilities and Exposures) es un sistema que proporciona identificadores únicos para vulnerabilidades y exposiciones de seguridad conocidas. Su propósito es estandarizar la manera en que se identifican y se comparten las vulnerabilidades, facilitando la comunicación entre organizaciones y la implementación de soluciones.
+
+3. Menciona tres ventajas del uso de CVE. (1 pt)
+•	Facilita la identificación rápida y precisa de vulnerabilidades conocidas.
+•	Ayuda a los administradores de sistemas a priorizar la corrección de vulnerabilidades.
+•	Fomenta la colaboración y el intercambio de información sobre seguridad entre diferentes organizaciones y proveedores de software.
+
+4. ¿Qué es CVSS y para qué se utiliza? (1 pt)
+El CVSS (Common Vulnerability Scoring System) es un sistema de puntuación que evalúa la gravedad de las vulnerabilidades de seguridad. Se utiliza para clasificar y priorizar las vulnerabilidades, ayudando a las organizaciones a determinar cuál debe corregirse primero según su nivel de riesgo.
+
+5. Describe los tres grupos métricos del CVSS. (1 pt)
+Los tres grupos métricos del CVSS son:
+•	Métricas Base: Evalúan las características fundamentales de una vulnerabilidad, como su impacto y el tipo de ataque necesario para explotarla.
+•	Métricas Temporal: Evalúan cómo las condiciones cambian con el tiempo, como la disponibilidad de parches.
+•	Métricas Ambiental: Evalúan el impacto que una vulnerabilidad podría tener en un entorno particular, considerando factores como el contexto y la configuración del sistema.
+
+6. Explica el concepto de "componentes con vulnerabilidades conocidas" (OWASP A9:2017). (1 pt)
+El concepto de "componentes con vulnerabilidades conocidas" hace referencia al uso de bibliotecas, frameworks u otros componentes de software que contienen fallos de seguridad documentados. Estos componentes pueden ser explotados por atacantes si no se mantienen actualizados o se utilizan versiones vulnerables.
+
+7. ¿Qué es la encriptación y cuál es su objetivo? (1 pt)
+La encriptación es el proceso de convertir datos legibles en un formato ilegible mediante el uso de algoritmos y claves. Su objetivo es proteger la confidencialidad de los datos, asegurando que solo las personas autorizadas puedan acceder a la información.
+
+8. ¿Qué significan las siglas SOAP, WS y XML? (1 pt)
+•	SOAP (Simple Object Access Protocol): Un protocolo de comunicación basado en XML para intercambiar información estructurada entre sistemas.
+•	WS (Web Services): Servicios web, que son aplicaciones o programas que permiten la comunicación y el intercambio de datos entre diferentes sistemas a través de Internet.
+•	XML (Extensible Markup Language): Un lenguaje de marcado utilizado para definir reglas de codificación de documentos de forma legible tanto para humanos como para máquinas.
+
+9. ¿Qué es hardening y cómo se relaciona con la seguridad de sistemas? (2 pts)
+Hardening es el proceso de reforzar la seguridad de un sistema, red o aplicación, eliminando posibles vulnerabilidades y configurando las defensas de manera adecuada. Se busca reducir la superficie de ataque y minimizar los riesgos, protegiendo los sistemas contra accesos no autorizados y otras amenazas.
+
+10. Describe tres acciones comunes de hardening. (2 pts)
+•	Desactivar servicios innecesarios: Eliminar o deshabilitar funciones y servicios del sistema que no se están utilizando, reduciendo posibles vectores de ataque.
+•	Aplicar parches y actualizaciones: Mantener el sistema y las aplicaciones actualizadas para corregir vulnerabilidades conocidas.
+•	Configurar políticas de acceso estrictas: Implementar controles de acceso adecuados, como contraseñas fuertes, autenticación multifactor y la limitación de privilegios de usuario.
+
+11. ¿Qué es un CAPTCHA y cuál es su función? (1 pt)
+Un CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart) es un sistema de prueba diseñado para determinar si el usuario es humano o un robot. Generalmente, presenta desafíos como identificar letras o números distorsionados, o seleccionar imágenes específicas. Su función es prevenir el abuso de servicios por bots automáticos.
+
+12. ¿Qué se entiende por "autenticación robusta centralizada"? (1 pt)
+La autenticación robusta centralizada es un sistema en el que los usuarios deben autenticarse a través de un mecanismo seguro (como autenticación multifactor) en un único punto de acceso centralizado. Esto facilita la gestión de usuarios y mejora la seguridad al asegurar que solo los usuarios autorizados accedan a los recursos del sistema.

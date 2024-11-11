@@ -1,0 +1,18 @@
+1. ¿Cuáles son los tres pilares de la seguridad informática y qué significan? (3 pts)
+Los tres pilares fundamentales de la seguridad informática son:
+•	Confidencialidad: Garantiza que solo las personas o sistemas autorizados tengan acceso a la información. Esto significa proteger los datos sensibles de accesos no permitidos, como contraseñas o información personal.
+•	Integridad: Se refiere a asegurar que la información no sea modificada, alterada o destruida de manera no autorizada. La integridad garantiza que los datos sean exactos y completos, y que no haya sido alterada sin permiso.
+•	Disponibilidad: Asegura que la información y los sistemas estén accesibles y funcionando correctamente cuando los usuarios autorizados lo necesiten. Esto implica que no haya interrupciones en el acceso a los servicios o datos.
+
+2. ¿Qué diferencia hay entre datos e información? (1 pt)
+Los datos son hechos o cifras sin procesar, que por sí mismos no tienen un significado claro (por ejemplo, una lista de números o palabras). La información, en cambio, es el resultado de procesar esos datos de manera que se conviertan en algo útil, significativo y comprensible (por ejemplo, un informe que explica el total de ventas de una empresa en un mes).
+
+3. Describe una medida para garantizar la confidencialidad. (2 pts)
+Una medida para garantizar la confidencialidad es el cifrado de los datos. El cifrado convierte la información en un formato ilegible para cualquier persona que no tenga la clave para descifrarla. Por ejemplo, cifrar correos electrónicos o archivos en tu computadora para que solo las personas autorizadas puedan leerlos.
+
+4. ¿Por qué es importante la integridad de la información? (2 pts)
+La integridad de la información es importante porque asegura que los datos no hayan sido alterados de manera no autorizada, lo que podría causar errores o pérdidas. Si la integridad se ve comprometida, las decisiones basadas en esa información podrían ser incorrectas, afectando la confiabilidad de los sistemas y procesos de una organización.
+
+5. Menciona un ejemplo de cómo se puede ver afectada la disponibilidad de la información. (2 pts)
+Un ejemplo de cómo se puede ver afectada la disponibilidad de la información es un ataque DDoS (denegación de servicio distribuida). En este tipo de ataque, un gran número de computadoras envían solicitudes masivas a un servidor, lo que sobrecarga el sistema y lo hace inaccesible para los usuarios legítimos, afectando su disponibilidad.
+
